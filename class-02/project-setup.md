@@ -50,7 +50,7 @@ A `.gitignore` file is used to manage what parts of a project will **not** be tr
 - Any files containing information (such as personal data, access keys, or authentication tokens) that you want to keep private
 - Other kinds of files that should only be maintained locally and not pushed to a project's repository (you'll learn more about these in Code 301)
 
-Because the `.gitignore` file name starts with a period, it is a hidden file in the operating system. Recall that hidden files can be viewed in your terminal by adding the `-a` flag to an `ls` command.
+Because the `.gitignore` file name starts with a period, it is a hidden file in the operating sytem. Recall that hidden files can be viewed in your terminal by adding the `-a` flag to an `ls` command.
 
 Following is a sample `.gitignore`; note that lines that start with a `#` are comment lines. Feel free to use this `.gitignore` content for your own projects. Note that when you get to Code 301, you will need a much larger `.gitignore` file, and a sample will be provided for you then.
 
@@ -85,13 +85,13 @@ What kind of content should be in the README?
 - Information on the license
 - Acknowledgements, etc.
 
-#### [README-template](README-template.md){:target="_blank"} -  The default 201 README template
+#### [README-template](https://codefellows.github.io/code-201-guide/curriculum/class-02/README-template.html){:target="_blank"} -  The default 201 README template
 
 Also take a look at the following suggested structures. Note the similarities and differences; there is no absolute right/wrong approach. Consider the information that would be helpful to users of your project, and then set one up that is appropriate to your project:
 
-- [README](https://gist.github.com/jxson/1784669){:target="_blank"} by GitHub user [jxson](https://gist.github.com/jxson){:target="_blank"}
-- [Stack Overflow Q/A on "How to write a good README"](https://gist.github.com/kipyegonmark/89fe62493f22d93705d917d634d8eeb2){:target="_blank"} (reprint)
-- [A Beginner's Guide to Writing a Kick*ss README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3){:target="_blank"}
+* [README](https://gist.github.com/jxson/1784669){:target="_blank"} by GitHub user [jxson](https://gist.github.com/jxson){:target="_blank"}
+* [Stack Overflow Q/A on "How to write a good README"](https://gist.github.com/kipyegonmark/89fe62493f22d93705d917d634d8eeb2){:target="_blank"} (reprint)
+* [A Beginner's Guide to Writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3){:target="_blank"}
 
 Lastly, remember to keep your README up to date! Don't just create it and then neglect it!
 
