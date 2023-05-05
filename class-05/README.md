@@ -6,7 +6,7 @@ In this class you will be closing out on the "About Me" quiz project. You will h
 
 ## Class Outline
 
-- Code Review of previous day's lab assignment
+- Code Review / Warm-up
 - Code Demo
   - Images in HTML
   - Function review
