@@ -2,6 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+
 h1 {
   font-size: 3em;
   text-align: center;
@@ -14,10 +15,16 @@ h1 {
   height: 700px;
   margin: 0 auto;
   border: 5px solid #003049;
-
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 #container div {
   width: 200px;
   height: 200px
+}
+
+div:nth-of-type(3){
+  align-self: flex-end;
 }
