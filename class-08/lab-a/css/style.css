@@ -1,0 +1,27 @@
+
+
+
+
+
+/* scrollable container */
+p {
+  width: 450px;
+  height: 300px;
+  overflow: auto;
+}
+
+
+/* HOVER AND TRANSITION */
+button:hover{
+  background-color: blue;
+}
+
+button {
+  transition: 350ms;
+}
+
+
+footer {
+  height: 150px;
+  background-color: #444;
+}
