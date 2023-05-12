@@ -1,4 +1,4 @@
-# JS Debugging and More CSS Layout
+# JS Debugging
 
 ## Overview
 
